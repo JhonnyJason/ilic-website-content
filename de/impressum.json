@@ -1,0 +1,86 @@
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei - Impressum",
+    "pageLocale": "de_DE",
+    "pageURL": "https://eventerei.at/impressum",
+    "pageDescription": "Eventerei Impressum &amp; Bildnachweise Fotografen",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkPortfilioEvents": "Events",
+        "menuLinkPortfilioHochzeiten": "Hochzeiten",
+        "menuLinkPortfilioTools": "Leihutensilien",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+        "impressumLink": {
+            "text": "Impressum&nbsp; Datenschutz",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink": {
+            "text": "Bildmaterial",
+            "ref": "/impressum.html"
+        },
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "contactTitle": "Eventerei, Sabina Wachmann",
+        "contactParagraphs": [
+            "Lambergweg 9, 8041 Graz",
+            "sabina@eventerei.at | +43 664 / 632 93 57",
+            "www.eventerei.at<br><br><br><br><br><br><br>",
+            "<b>Bildmaterial</b>:&nbsp;<br><br><a href=\"https://www.facebook.com/HFHundefotografie/\">©&nbsp; HF Hundefotografie&nbsp;</a><br><a href=\"https://www.facebook.com/HFHundefotografie/\"><br></a><a href=\"https://www.instagram.com/_derbildermacher/\">©&nbsp; Der Bildermacher<br></a><br><a href=\"https://www.miriamandmanuel.com/\">©&nbsp;&nbsp;Miriam &amp; Manuel Fotografie&nbsp;<br></a><br>©&nbsp;<a href=\"https://www.seedpap.at/\">Seed</a><a href=\"#\"></a>pap&nbsp;<br><br><b>Fotostrecke Portfolio:</b><br><b><br></b>©\n@loversandhearts&nbsp;<br>foto: @<a href=\"https://byclarissa.at/\">byclarissa</a><br>\ncouple: @anni_onthego &amp; @hank_ge <br>\ndress: @annakaraofficial by @heydayvienna <br>\nflowers: @ilvirasblumen <br>\nrings: @filia.aurea <br>\nearrings: @weareflowergirls <br>\nstationery: @purewedding.at<br>\nhair &amp; make-up: @ayrbeauty <br>\ncake: @erikazormann<br>"
+        ],
+        "datenschutzBlocks": [
+            {
+                "title": "DATENSCHUTZERKLÄRUNG",
+                "paragraphs": [
+                    "Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003).&nbsp;<br>In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.",
+                    "Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihrean gegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschluss fragen sechs Monate bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter."
+                ]
+            },
+            {
+                "title": "DATENSPEICHERUNG",
+                "paragraphs": [
+                    "Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003).&nbsp;<br>In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.",
+                    "Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihrean gegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschluss fragen sechs Monate bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter."
+                ]
+            },
+            {
+                "title": "IHRE RECHTE&nbsp;",
+                "paragraphs": [
+                    "<br><br>Sofern die Verarbeitung Ihrer Daten auf\nGrundlage Ihrer Einwilligung erfolgt, haben Sie das Recht, Ihre Einwilligung\njederzeit zu widerrufen. Die Rechtmäßigkeit der Verarbeitung Ihrer Daten bis\nzum Widerruf bleibt von Ihrem Widerruf unberührt. Darüber hinaus stehen Ihnen\ngrundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung\nder Verarbeitung, Widerspruch und Datenübertragbarkeit zur Verfügung. Dazu\nreicht eine formlose Mitteilung per E-Mail an uns. Ebenso haben Sie das Recht\nauf Beschwerde bei der Österreichischen Datenschutzbehörde, Wickenburggasse 8,\n1080 Wien.<br>",
+                    "<br>Sofern die Verarbeitung Ihrer Daten auf\nGrundlage Ihrer Einwilligung erfolgt, haben Sie das Recht, Ihre Einwilligung\njederzeit zu widerrufen. Die Rechtmäßigkeit der Verarbeitung Ihrer Daten bis\nzum Widerruf bleibt von Ihrem Widerruf unberührt. Darüber hinaus stehen Ihnen\ngrundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung\nder Verarbeitung, Widerspruch und Datenübertragbarkeit zur Verfügung. Dazu\nreicht eine formlose Mitteilung per E-Mail an uns. Ebenso haben Sie das Recht\nauf Beschwerde bei der Österreichischen Datenschutzbehörde, Wickenburggasse 8,\n1080 Wien.<br>"
+                ]
+            },
+            {
+                "title": "IMPRESSUM",
+                "paragraphs": [
+                    "<br>Informationspflicht laut §5 E-Commerce Gesetz, §14\nUnternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25\nMediengesetz.<br><br>\n\n<br>Eventerei, Sabina Wachmann<br>\nLambergweg 9,&nbsp;8041 Graz,&nbsp;Österreich<br>Tel.: +43&nbsp;664 / 632 93 57,&nbsp;E-Mail: sabina@eventerei.at<br><br>\n\n<br>Mitglied bei: Wirtschaftskammer Steiermark&nbsp;Berufsrecht Organisation von Veranstaltungen, Märkten und Messen\n(Eventmanagement)<br>Aufsichtsbehörde/Gewerbebehörde: Magistrat der Stadt Graz, Berufsbezeichnung: Veranstaltungsplanerin,Verleihungsstaat: Österreich<br>\n\n<br><b>Webdesign und\nUmsetzung</b>: <br>\n\n<br><a href=\"https://www.va-designory.at/\">Visual Art Designory e.U</a>.&nbsp;<br><br><br><b>EU-Streitschlichtung<br></b>\n\n<br>Gemäß Verordnung über\nOnline-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten\nwir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren.<br>\nVerbraucher haben die Möglichkeit, Beschwerden an die Online\nStreitbeilegungsplattform der Europäischen Kommission unter&nbsp;<a href=\"https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&amp;lng=DE\" target=\"_blank\"><br>http://ec.europa.eu/odr?tid=221094868</a>&nbsp;zu richten. Die\ndafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.<br>\n\n<br>Wir möchten Sie jedoch darauf\nhinweisen, dass wir nicht bereit oder verpflichtet sind, an\nStreitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.<br>\n\n<br><b>Haftung für Inhalte\ndieser Webseite</b><br>\n\n<br>Wir entwickeln die Inhalte dieser\nWebseite ständig weiter und bemühen uns korrekte und aktuelle Informationen\nbereitzustellen. Leider können wir keine Haftung für die Korrektheit aller\nInhalte auf dieser Webseite übernehmen, speziell für jene die seitens Dritter\nbereitgestellt wurden.<br>\n\n<br>Sollten Ihnen problematische oder\nrechtswidrige Inhalte auffallen, bitten wir Sie uns umgehend zu kontaktieren,\nSie finden die Kontaktdaten im Impressum.<br>\n\n<br><b>Haftung für Links auf\ndieser Webseite<br></b>\n\n<br>Unsere Webseite enthält Links zu\nanderen Webseiten für deren Inhalt wir nicht verantwortlich sind. Haftung für\nverlinkte Websites besteht laut&nbsp;<a href=\"https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&amp;Dokumentnummer=NOR40025813&amp;tid=221094868\" target=\"_blank\"><br>§ 17 ECG</a>&nbsp;für uns nicht, da wir keine Kenntnis\nrechtswidriger Tätigkeiten hatten und haben, uns solche Rechtswidrigkeiten auch\nbisher nicht aufgefallen sind und wir Links sofort entfernen würden, wenn uns\nRechtswidrigkeiten bekannt werden.<br>\n\n<br>Wenn Ihnen rechtswidrige Links\nauf unserer Website auffallen, bitten wir Sie uns zu kontaktieren, Sie finden\ndie Kontaktdaten im Impressum.<br>\n\n<br><b>Urheberrechtshinweis<br></b>\n\n<br>Alle Inhalte dieser Webseite\n(Bilder, Fotos, Texte, Videos) unterliegen dem Urheberrecht. Falls notwendig,\nwerden wir die unerlaubte Nutzung von Teilen der Inhalte unserer Seite\nrechtlich verfolgen.<br>"
+                ]
+            }
+        ],
+        "pageQuoteQuote": "Impressum &amp; Bildmaterial",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+        "quoteQuote": "Ewig mein.&nbsp;<br>Ewig dein.&nbsp;<br>Ewig Uns.&nbsp;",
+        "quoteAuthor": "Ludwig vAn Beethoven"
+    },
+    "images": {
+        "bannerImageRow": {
+            "name": "impressum.jpg",
+            "width": "1920",
+            "height": "440"
+        }
+    }
+}

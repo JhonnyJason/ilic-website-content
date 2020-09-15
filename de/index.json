@@ -1,0 +1,152 @@
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei",
+    "pageLocale": "de_DE",
+    "pageURL": "https://eventerei.at",
+    "pageDescription": "Kreativagentur aus Graz: Hochzeits- und Eventplanung, neugedachte Traditionen, naturnahe Details &amp; Inspirationen, Podcast",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkPortfilioEvents": "Events",
+        "menuLinkPortfilioHochzeiten": "Hochzeiten",
+        "menuLinkPortfilioTools": "Leihutensilien",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+        "impressumLink": {
+            "text": "Impressum&nbsp; Datenschutz",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink": {
+            "text": "Bildmaterial",
+            "ref": "/impressum.html"
+        },
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "bannerCarouselImages": [
+            {
+                "url": "/img/banner-carousel-image1.jpg"
+            },
+            {
+                "url": "/img/banner-carousel-image2.jpg"
+            }
+        ],
+        "pageQuoteQuote": "EVENTS &amp; WEDDINGS",
+        "pageQuoteSignature": "&nbsp;IN AUSSERGEWÖHNLICHEN LOCATIONS",
+        "introTextTitle": "Details meet Emotions&nbsp;",
+        "introTextSubtitle": "Ihr Fest mit Liebe geplant",
+        "introTextParagraphs": [
+            "In der Eventerei versteht man es, Feiern nach Maß zu planen. Liebevolle und erstklassige Details, die ein emotionales Feuerwerk auslösen und noch Jahre lang in den Köpfen verankert bleiben - so sieht mein Zugang aus.",
+            "Ich weiß ganz genau, wie schöne Momente individuell planbar werden. Ich kenne die besten Locations, die zuverlässigsten Partner und habe natürlich auch den einen oder anderen Geheimtipp parat, sollte es einmal etwas ganz Spezielles fernab vom Mainstream sein. Zielorientiert und mit viel Liebe zum Detail wird in der Eventerei aus Wünschen Wirklichkeit. Sie erzählen mir von Ihren Vorstellungen und dürfen sich dann ganz entspannt zurücklehnen, den Rest übernehme ich. <a href=\"/ubermich.html\"></a><a href=\"/ubermich.html\"><b>Mehr über mich...</b></a>"
+        ],
+        "quoteQuote": "EINe Marke,&nbsp;<br>ein Produkt&nbsp;<br>sowie ein Event,<br>ist wie eine&nbsp;<br>grosse LieBE.<br> Sie will Ergründet,<br> begehrt und gepflegt werden.",
+        "quoteAuthor": "",
+        "cardLink1": {
+            "title": "Der Feine Unterschied.",
+            "subtitle": "Mehr über mich...",
+            "ref": "/ubermich.html"
+        },
+        "cardLink2": {
+            "title": "Thingking Green Never Goes out of Style.",
+            "subtitle": "Mehr über mein Angebot...",
+            "ref": "/portfolio.html#tools"
+        },
+        "cardLink3": {
+            "title": "A LOVE for Details.",
+            "subtitle": "Mehr zu Impressionen...",
+            "ref": "/impressionen.html"
+        },
+        "cardLink4": {
+            "title": "Roter Faden von der Idee bis zum Applaus.",
+            "subtitle": "Mehr über Eventportfolio...",
+            "ref": "/portfolio.html"
+        },
+        "showcaseSubtitle": "",
+        "showcaseImages": [
+            {
+                "ref": "https://www.instagram.com/eventerei_/p/CEXRdkgnKD3",
+                "src": "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/e35/118371230_1161968227523212_9217256532779893206_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=ry-om8opos8AX_l7Syi&oh=2e9a9a1b13ecd872f797b36f5abcc2b9&oe=5F517280"
+            },
+            {
+                "ref": "https://www.instagram.com/eventerei_/p/CDrNp1lH8sv",
+                "src": "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/e35/117131710_294133548317896_6472114270370894210_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=FftTmwBjw04AX_LZzvr&oh=10e9a35d2934476985df59f4baeec51a&oe=5F7A256E"
+            },
+            {
+                "ref": "https://www.instagram.com/eventerei_/p/CDjWLGgJWji",
+                "src": "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/e35/117293895_160793138910559_5907376680441926372_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=mArcSKo3VYYAX-04DIm&oh=7a3da63a81d4d60a77c9a1e7f85de040&oe=5F777BFA"
+            },
+            {
+                "ref": "https://www.instagram.com/eventerei_/p/CDYkXIkHHB_",
+                "src": "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/e35/117150679_994274527709595_5103107305159250452_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=VNTeojQFL3YAX9tKLTg&oh=7ebbaf8eb96d85d95c2296c486e6e622&oe=5F7937B4"
+            },
+            {
+                "ref": "https://www.instagram.com/eventerei_/p/CC6UnbsJbAM",
+                "src": "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/e35/109524546_936843690061417_5706631924891520898_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=r3VINF6S8T0AX-NydMX&oh=93e5891c17e24277d77fccde52c272cd&oe=5F7A0CEB"
+            }
+        ]
+    },
+    "images": {
+        "bannerCarouselImage1": {
+            "name": "banner-carousel-image1.jpg",
+            "width": "1920",
+            "height": "440"
+        },
+        "mobileBannerImageRow": {
+            "name": "start-mobile.jpg",
+            "width": "600",
+            "height": "440"
+        },
+        "bannerBackgroundEvents": {
+            "name": "startpage-banner-events-background.jpg",
+            "width": "960",
+            "height": "300"
+        },
+        "bannerBackgroundHochzeiten": {
+            "name": "startpage-banner-hochzeiten-background.jpg",
+            "width": "960",
+            "height": "300"
+        },
+        "introImage": {
+            "name": "startpage-intro-image.jpg",
+            "width": "300",
+            "height": "400"
+        },
+        "cardLink1": {
+            "name": "card-link1-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "cardLink2": {
+            "name": "card-link2-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "cardLink3": {
+            "name": "card-link3-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "cardLink4": {
+            "name": "card-link4-image.jpg",
+            "width": "960",
+            "height": "400"
+        },
+        "bannerCarouselImage2": {
+            "name": "banner-carousel-image2.jpg",
+            "width": "1920",
+            "height": "440"
+        }
+    }
+}

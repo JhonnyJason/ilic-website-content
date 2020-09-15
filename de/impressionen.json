@@ -1,0 +1,344 @@
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei - Impressionen",
+    "pageLocale": "de_DE",
+    "pageURL": "https://eventerei.at/impressionen",
+    "pageDescription": "Impressionen, Inspirationen &amp; Referenzen",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkPortfilioEvents": "Events",
+        "menuLinkPortfilioHochzeiten": "Hochzeiten",
+        "menuLinkPortfilioTools": "Leihutensilien",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+        "impressumLink": {
+            "text": "Impressum&nbsp; Datenschutz",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink": {
+            "text": "Bildmaterial",
+            "ref": "/impressum.html"
+        },
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "pageQuoteQuote": "IMPRESSIONEN",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+        "testimonialEntries": [
+            "<b>Mariella</b>:&nbsp;<br>Liebe Sabina, wir können dir nicht genügend für deinen Einsatz danken. Dank dir haben wir unseren Tag&nbsp;<br>in vollsten Zügen genießen können. Danke auch für deinen unzähligen Tipps &amp; Tricks - du bist und bleibst mein absoluter Ruhepol. Wir hätten uns keine bessere Planerin wünschen können.&nbsp;&nbsp;<br>",
+            "<b>M. Hödl | Female Founders South:&nbsp;<br></b>Sabina ist der Wahnsinn. Mit viel eigenem Imput, Kreativität und höchstem Einsatz macht sie&nbsp;Events unter&nbsp;ihrer Verantwortung einzigartig. Auf die Eventerei kann&nbsp;<br>man sich&nbsp;zu 150 % verlassen.&nbsp;<br>",
+            "<b>J. Plakolm | Female Founders South:&nbsp;<br></b>Sabina ist einfach super&nbsp;❤&nbsp;&nbsp;Perfekt organisiert und strukturiert. Und was noch viel wichtiger ist&nbsp;<br>symathisch und 100%ig verlässlich.&nbsp;Ich kann die Eventerei auf jeden Fall weiterempfehlen.&nbsp;<br>",
+            "<b>D.Feiertag:&nbsp;<br></b>Super sympathisch, durchorganisiert bis ins letzte Detail, strahlende Erscheinung, super lässige Frau:)&nbsp; - danke für deine leidenschaftliche und perfekte Arbeit&nbsp;<br>an unserem großen Tag. Wir haben uns in jeder Sekunde super aufgehoben gefühlt.&nbsp;",
+            "<b>S. Horvath | Female Founders South:<br></b>Verlässlich und organsiert - setzt sich so ein als wäre es ihre eigene Veranstaltung! Auf jeden Fall zu empfehlen.&nbsp;<br>"
+        ],
+        "impressionSections": [
+            {
+                "impressionDescriptionTitle": "Pamela &amp; Kevin",
+                "impressionDescriptionSubtitle": "Summer Wine Wedding&nbsp;",
+                "impressionDescriptionParagraphs": [
+                    "<br>Im malerischen Schloss Halbturn fand die\nsommerliche Hochzeit von Pamela &amp; Kevin statt.&nbsp;Liebevolle Details schmückten diesen wunderschönen\nTag: handbeschriebene Ballonflaschen&nbsp;wiesen den Besuchern ihren Platz zu, auf dem\nreichlich gedeckten Tisch mit Feigen, Weintrauben&nbsp;und goldenen Akzenten fanden Gäste personalisierte Feigen mit Kalligrafien.&nbsp;Üppig geschmückter grüner Traubogen traf auf\nmediterrane Akzente im Trauungssaal des Schlosses mit&nbsp;Rundbögen - Herz was willst du mehr.&nbsp;"
+                ],
+                "impressionCreditsParagraphs": [
+                    "<br><b>HOCHZEITSPLANUNG &amp;&nbsp; TAGESKOORDINATION&nbsp;</b><br>Claudia Fitzinger - plan. create. design.<br><b style=\"font-size: 11pt; letter-spacing: 1pt;\">TAGESBETREUUNG ASSISTENZ&nbsp;</b><br>Eventerei<br>",
+                    "<b>DEKORATION &amp; ASSISTENZ</b>&nbsp;<br>Mademoiselle Fee",
+                    "<b>VIDEO&nbsp;</b><br>Santiago Boceta Wedding Films",
+                    "<b>TORTE &amp; KUCHEN</b>&nbsp;<br>das Tortenstudio",
+                    "<b>PAPETERIE &amp; KALLIGRAFIE</b>&nbsp;<br>Zarah Fine Art",
+                    "<b>FLORISTIK</b>&nbsp;<br>Blumeninsel Irene Riedel",
+                    "<b>DEKORATIONSVERLEIH</b>&nbsp;<br>Wedding Bazaar Vienna",
+                    "<b>LOCATION</b>&nbsp;<br>Schloss Halbturn",
+                    "<b>FOTOGRAFIE&nbsp;</b><br>Anna Obermeier Photography"
+                ],
+                "impressionImage1": {
+                    "url": "/img/impression1-image1.jpg",
+                    "thumbnailURL": "/img/impression1-image1-thumbnail.jpg"
+                },
+                "impressionImage2": {
+                    "url": "/img/impression1-image2.jpg",
+                    "thumbnailURL": "/img/impression1-image2-thumbnail.jpg"
+                },
+                "impressionImage3": {
+                    "url": "/img/impression1-image3.jpg",
+                    "thumbnailURL": "/img/impression1-image3-thumbnail.jpg"
+                },
+                "impressionImage4": {
+                    "url": "/img/impression1-image4.jpg",
+                    "thumbnailURL": "/img/impression1-image4-thumbnail.jpg"
+                }
+            },
+            {
+                "impressionDescriptionTitle": "Female Founders South&nbsp;",
+                "impressionDescriptionSubtitle": "1. Lead Today. Shape Tomorrow. Konferenz",
+                "impressionDescriptionParagraphs": [
+                    "\"How to be a female founder and shape the world\" - unter diesem Motto drehte sich die Konferenz im Meerscheinschlössl Graz, bei der unter anderem eine Impact Area mit lokalen Macherinnen und spannende Workshops auf Interpreneurinnen, Gründerinnen und Interessierte wartete. Inspirierende Keynotes von Julia Zotter (Leiterin Intependance Zotter Shanghai), Andrea Lehner (Gründerin andmetics) und Courtney Schnitzer (moodley) mit anschließender After-Show Party rundeten den inspirierenden und motivierenden Abend ab."
+                ],
+                "impressionCreditsParagraphs": [
+                    "<b>ORGANISATION</b><br>Eventerei",
+                    "<b>FOTOGRAFIE</b><br>Lukas Elsneg",
+                    "<b>EVENT DESIGN</b><br>Eventerei",
+                    "<b>FLORISTIK</b><br>tbd",
+                    "<b>DEKORATION</b><br>Eventerei<b>&nbsp;</b>",
+                    "<b>LOCATION</b><br>Meerscheinschlössl Graz"
+                ],
+                "impressionImage1": {
+                    "url": "/img/impression2-image1.jpg",
+                    "thumbnailURL": "/img/impression2-image1-thumbnail.jpg"
+                },
+                "impressionImage2": {
+                    "url": "/img/impression2-image2.jpg",
+                    "thumbnailURL": "/img/impression2-image2-thumbnail.jpg"
+                },
+                "impressionImage3": {
+                    "url": "/img/impression2-image3.jpg",
+                    "thumbnailURL": "/img/impression2-image3-thumbnail.jpg"
+                },
+                "impressionImage4": {
+                    "url": "/img/impression2-image4.jpg",
+                    "thumbnailURL": "/img/impression2-image4-thumbnail.jpg"
+                }
+            },
+            {
+                "impressionDescriptionTitle": "PRÄSENTATION",
+                "impressionDescriptionSubtitle": "WEDDING MEET UP GRAZ",
+                "impressionDescriptionParagraphs": [
+                    "Für diesen schönen Anlass habe ich mich für die Farbkombination: gold/beige/eucalyptus entschieden. Goldenes Besteck, goldener Farn und liebevolle Details auf Cakecicles, Sweet Table und Torte, beige und eucalyptus runden das Konzept ab. Goldene Akze<a href=\"https://www.instagram.com/p/B6_hoAVBdrB/\"></a>nte geben der Dekoration die nötige Eleganz -&nbsp;<br>\"I love it\".&nbsp; Film zum Wedding Meet Up finden Sie <a href=\"https://www.instagram.com/p/B6_hoAVBdrB/\"><b>hier</b>..</a>."
+                ],
+                "impressionCreditsParagraphs": [
+                    "<b>ORGANISATION</b><br>Eventerei",
+                    "<b>WEDDING DESIGN</b><br>Eventerei",
+                    "<b>ORGANISATION WEDDING MEET UP</b><br>Verena Kindermann",
+                    "<b>FOTOGRAFIE</b><br>Miriam &amp; Manuel Fotografie",
+                    "<b>SWEET TABLE</b><br>Das Tortenatelier",
+                    "<b>FLORISTIK</b><br> Florathek",
+                    "<b>DEKORATION</b><br>Eventerei",
+                    "<b>VIDEOGRAFIE</b><br>Sanctus Munyaneza",
+                    "<b>LOCATION</b><br>Florathek"
+                ],
+                "impressionImage1": {
+                    "url": "/img/impression3-image1.jpg",
+                    "thumbnailURL": "/img/impression3-image1-thumbnail.jpg"
+                },
+                "impressionImage2": {
+                    "url": "/img/impression3-image2.jpg",
+                    "thumbnailURL": "/img/impression3-image2-thumbnail.jpg"
+                },
+                "impressionImage3": {
+                    "url": "/img/impression3-image3.jpg",
+                    "thumbnailURL": "/img/impression3-image3-thumbnail.jpg"
+                },
+                "impressionImage4": {
+                    "url": "/img/impression3-image4.jpg",
+                    "thumbnailURL": "/img/impression3-image4-thumbnail.jpg"
+                }
+            },
+            {
+                "impressionDescriptionTitle": "Corinna &amp; DAVID",
+                "impressionDescriptionSubtitle": "Wachauer Weinhochzeit",
+                "impressionDescriptionParagraphs": [
+                    "Das Wetter meinte es auch in letzter Minute noch gut mit uns und wir konnten die Hochzeit unter freiem Himmel stattfinden lassen - welch Glück. Gerne erinnere ich mich an diese wunderschöne Hochzeit mit liebevollen rosa Details unter freiem Himmel im Weinschloss Domäne Wachau zurück."
+                ],
+                "impressionCreditsParagraphs": [
+                    "<b>ORGANISATION</b><br>Mit dir zu Zweit",
+                    "<b>TAGESKOORDINATION</b><br>Mit dir zu Zweit &amp; Eventerei",
+                    "<b>LOCATION</b><br>Weingut Domäne Wachau &amp;&nbsp;<br>Restaurant Loibnerhof"
+                ],
+                "impressionImage1": {
+                    "url": "/img/impression4-image1.jpg",
+                    "thumbnailURL": "/img/impression4-image1-thumbnail.jpg"
+                },
+                "impressionImage2": {
+                    "url": "/img/impression4-image2.jpg",
+                    "thumbnailURL": "/img/impression4-image2-thumbnail.jpg"
+                },
+                "impressionImage3": {
+                    "url": "/img/impression4-image3.jpg",
+                    "thumbnailURL": "/img/impression4-image3-thumbnail.jpg"
+                },
+                "impressionImage4": {
+                    "url": "/img/impression4-image4.jpg",
+                    "thumbnailURL": "/img/impression4-image4-thumbnail.jpg"
+                }
+            }
+        ]
+    },
+    "images": {
+        "bannerImageRow": {
+            "name": "impressionen.jpg",
+            "width": "1920",
+            "height": "440"
+        },
+        "impressionSection1GalleryImage1": {
+            "name": "impression1-image1.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression1-image1-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection1GalleryImage2": {
+            "name": "impression1-image2.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression1-image2-thumbnail.jpg",
+                "width": "650",
+                "height": "500"
+            }
+        },
+        "impressionSection1GalleryImage3": {
+            "name": "impression1-image3.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression1-image3-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection1GalleryImage4": {
+            "name": "impression1-image4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression1-image4-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection2GalleryImage1": {
+            "name": "impression2-image1.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression2-image1-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection2GalleryImage2": {
+            "name": "impression2-image2.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression2-image2-thumbnail.jpg",
+                "width": "650",
+                "height": "500"
+            }
+        },
+        "impressionSection2GalleryImage3": {
+            "name": "impression2-image3.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression2-image3-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection2GalleryImage4": {
+            "name": "impression2-image4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression2-image4-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection3GalleryImage1": {
+            "name": "impression3-image1.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression3-image1-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection3GalleryImage2": {
+            "name": "impression3-image2.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression3-image2-thumbnail.jpg",
+                "width": "650",
+                "height": "500"
+            }
+        },
+        "impressionSection3GalleryImage3": {
+            "name": "impression3-image3.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression3-image3-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection3GalleryImage4": {
+            "name": "impression3-image4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression3-image4-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection4GalleryImage1": {
+            "name": "impression4-image1.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression4-image1-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection4GalleryImage2": {
+            "name": "impression4-image2.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression4-image2-thumbnail.jpg",
+                "width": "650",
+                "height": "500"
+            }
+        },
+        "impressionSection4GalleryImage3": {
+            "name": "impression4-image3.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression4-image3-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "impressionSection4GalleryImage4": {
+            "name": "impression4-image4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "impression4-image4-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        }
+    }
+}

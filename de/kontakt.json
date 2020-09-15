@@ -1,0 +1,63 @@
+{
+    "languageTag": "de",
+    "pageTitle": "Eventerei - Kontakt",
+    "pageLocale": "de_DE",
+    "pageURL": "https://eventerei.at/kontakt",
+    "pageDescription": "Sie möchten mehr über mich und meine Ideen erfahren? Let's connect",
+    "pageImageURL": "https://eventerei.at/img/logo.svg",
+    "pageType": "website",
+    "sharedContent": {
+        "menuLinkStart": "Start",
+        "menuLinkPortfilio": "Portfolio",
+        "menuLinkPortfilioEvents": "Events",
+        "menuLinkPortfilioHochzeiten": "Hochzeiten",
+        "menuLinkPortfilioTools": "Leihutensilien",
+        "menuLinkImpressionen": "Impressionen",
+        "menuLinkPartner": "Partner",
+        "menuLinkUbermich": "My Story",
+        "menuLinkFaq": "FAQ",
+        "menuLinkKontakt": "Kontakt",
+        "impressumLink": {
+            "text": "Impressum&nbsp; Datenschutz",
+            "ref": "/impressum.html"
+        },
+        "agbLink": {
+            "text": "AGB",
+            "ref": "/AGB.pdf"
+        },
+        "datenschutzLink": {
+            "text": "Bildmaterial",
+            "ref": "/impressum.html"
+        },
+        "contactBlockTitle": "Kontakt",
+        "contactBlockParagraph": "Eventerei - Sabina Wachmann, MA<br> Tel.: <a href='tel:+436646329357'> +43 (0)664 632 93 57</a> <br> E-Mail: <a href='mailto:sabina@eventerei.at'> sabina@eventerei.at</a>",
+        "contactAddressParagraph": "Lambergweg 9 <br> A-8041 Graz",
+        "copyrightBlockParagraph": "Copyright 2020"
+    },
+    "content": {
+        "pageQuoteQuote": "Let's connect",
+        "pageQuoteSignature": "Eventerei by Sabina Wachmann",
+        "introTitle": "LET’S CREATE SOMETHING BREATHTAKING TOGETHER",
+        "introParagraph": "Wenn Sie mehr über mich & meine Ideen erfahren möchten,<br> freue ich mich über Ihre Kontaktaufnahme.",
+        "kontaktFormAction": "https://formspree.io/sabina@eventerei.at",
+        "formNameLabel": "Vor- & Nachname",
+        "formAddressLabel": "Adresse",
+        "formEmailLabel": "E-Mail Adresse",
+        "formMessageLabel": "Persönliche Nachricht",
+        "formButton": "Senden",
+        "quoteQuote": "To create something exceptional, your mindset must be recentlessly focused on the smallest details",
+        "quoteAuthor": "Giorgio Armani"
+    },
+    "images": {
+        "bannerImageRow": {
+            "name": "kontakt.jpg",
+            "width": "1920",
+            "height": "440"
+        },
+        "kontaktImage": {
+            "name": "kontakt-image.jpg",
+            "width": "280",
+            "height": "470"
+        }
+    }
+}
