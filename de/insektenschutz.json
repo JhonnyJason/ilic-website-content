@@ -86,7 +86,7 @@
             "url": "/img/insektenschutz-gallery-image5.jpg",
             "thumbnailURL": "/img/insektenschutz-gallery-image5-thumbnail.jpg"
         }
-   },
+    },
     "images": {
         "bannerImage": {
             "name": "insektenschutz-banner.jpg",
@@ -143,5 +143,5 @@
                 "height": "350"
             }
         }
-   }
+    }
 }

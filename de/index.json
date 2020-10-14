@@ -59,14 +59,14 @@
         ],
         "companyHistory": "Das Familienunternehmen <b>ILIC Fenster, Türen & Rollläden</b> in Mössingen - Deutschland wurde 1997 von Stjepan Ilic gegründet und befindet sich seit 2012 in gemeinsamer Führung mit seinem Sohn Manuel Ilic. Der Betrieb umfasst stetig zwischen 6 und 10 Mitarbeiter welche jährlich auf den modernsten Stand der Technik geschult werden. Spezialisiert auf Neubauobjekte und Altbausanierungen ist <b>ILIC Fenster, Türen & Rollläden</b> der ideale Partner in Sachen Einfamilienhäusern und Altbausanierungen.<br>Das breitggefächerte Sortiment umfasst ebenso zahlreiche Zusatzausstattungen - somit hat sich <b>ILIC Fenster, Türen & Rollläden</b> auf Sonnenschutz, Insektenschutz und Haustüren spezialisiert und bietet eine deutschlandweite Lieferung und Montage sämtlicher Produkte an.",
         "fensterTitle": "Fenster",
-        "fensterParagraph": "Das Wechselspiel von Licht und Schatten ist einfach traumhaft, wenn die Sonne durch Ihre Jalousien scheint. Mit einer Jalousie von WAREMA können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Genießen schaffen. In Farbe und Variation haben Sie bei der Auswahl von Innen- und Außenjalousien freie Hand zum kreativen Gestalten. Selbst für dreieckige Fenster finden Sie den passenden Sonnenschutz. Und den Bedienkomfort wählen Sie ganz nach Wunsch – ob Öffnen per Hand oder ferngesteuert per Motor.",
+        "fensterParagraph": "<br>Lichtdurchflutete Räume, perfekt in Szene gesetzte Weitblicke, harmonische Architektur, das und noch viel mehr bieten Ihnen gut durchdachten Fensterkonzepte.&nbsp;<br>Neben Einbruchsicherheit hat auch die Wärmedämmung und der Lärmschutz oberste Priorität, wir achten auf jedes Detail für Ihren individuellen Wohntraum.<br>Modern bauen mit großen Glasflächen, für ein offenes, grenzenloses Wohngefühl. Schaffen Sie ein Ambiente zum Genießen und entspannen - in Ihrer eigenen kleinen Glücksoase für die ganze Familie.&nbsp;",
         "turenTitle": "Türen",
         "turenParagraph": "Das Wechselspiel von Licht und Schatten ist einfach traumhaft, wenn die Sonne durch Ihre Jalousien scheint. Mit einer Jalousie von WAREMA können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Genießen schaffen. In Farbe und Variation haben Sie bei der Auswahl von Innen- und Außenjalousien freie Hand zum kreativen Gestalten. Selbst für dreieckige Fenster finden Sie den passenden Sonnenschutz. Und den Bedienkomfort wählen Sie ganz nach Wunsch – ob Öffnen per Hand oder ferngesteuert per Motor.",
         "sonnenschutzTitle": "Sonnenschutz",
-        "sonnenschutzParagraph": "Das Wechselspiel von Licht und Schatten ist einfach traumhaft, wenn die Sonne durch Ihre Jalousien scheint. Mit einer Jalousie von WAREMA können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Genießen schaffen. In Farbe und Variation haben Sie bei der Auswahl von Innen- und Außenjalousien freie Hand zum kreativen Gestalten. Selbst für dreieckige Fenster finden Sie den passenden Sonnenschutz. Und den Bedienkomfort wählen Sie ganz nach Wunsch – ob Öffnen per Hand oder ferngesteuert per Motor.",
+        "sonnenschutzParagraph": "<br>Das Wechselspiel von Licht und Schatten es ist einfach ein Traum, wenn die Sonne durch Ihre Jalousien scheint und sanft auf die Nasenspitze trifft. Mit individuellen Sonnenschutzkonzepten können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Wohlfühlen und Verweilen schaffen. In Farbe und Variation haben Sie freie Hand zum kreativen Gestalten und Abrunden Ihrer Inneneinrichtung. Selbst für ausgefallene Fensterformen finden Sie bei uns einen passenden Sonnenschutz. Die Handhabung wählen Sie ganz nach Wunsch aus, ob Bedienen per Hand oder ferngesteuert per Motor - das bleibt ganz Ihnen überlassen.",
         "insektenschutzTitle": "Insektenschutz",
         "insektenschutzParagraph": "Das Wechselspiel von Licht und Schatten ist einfach traumhaft, wenn die Sonne durch Ihre Jalousien scheint. Mit einer Jalousie von WAREMA können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Genießen schaffen. In Farbe und Variation haben Sie bei der Auswahl von Innen- und Außenjalousien freie Hand zum kreativen Gestalten. Selbst für dreieckige Fenster finden Sie den passenden Sonnenschutz. Und den Bedienkomfort wählen Sie ganz nach Wunsch – ob Öffnen per Hand oder ferngesteuert per Motor."
-   },
+    },
     "images": {
         "bannerImage": {
             "name": "home-banner.jpg",
@@ -93,5 +93,5 @@
             "width": "960",
             "height": "400"
         }
-   }
+    }
 }

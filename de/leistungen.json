@@ -66,10 +66,9 @@
             "- Insektenschutz- und Türen in verschiedenen Variationen",
             "- Haustüren & Zimmertüren",
             "- Hebeschiebetüren, Parallelschiebekipptüren, Harmonikatüren, Faittüren"
-
         ],
         "guaranteeProclamation": "5-Jahre-Garantie für alle Produkte"
-   },
+    },
     "images": {
         "bannerImage": {
             "name": "leistungen-banner.jpg",
@@ -96,5 +95,5 @@
             "width": "960",
             "height": "400"
         }
-   }
+    }
 }

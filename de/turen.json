@@ -90,7 +90,7 @@
             "url": "/img/turen-gallery-image5.jpg",
             "thumbnailURL": "/img/turen-gallery-image5-thumbnail.jpg"
         }
-   },
+    },
     "images": {
         "bannerImage": {
             "name": "turen-banner.jpg",
@@ -147,5 +147,5 @@
                 "height": "350"
             }
         }
-   }
+    }
 }

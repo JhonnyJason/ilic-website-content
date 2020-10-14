@@ -91,7 +91,7 @@
             "url": "/img/sonnenschutz-gallery-image5.jpg",
             "thumbnailURL": "/img/sonnenschutz-gallery-image5-thumbnail.jpg"
         }
-   },
+    },
     "images": {
         "bannerImage": {
             "name": "sonnenschutz-banner.jpg",
@@ -148,5 +148,5 @@
                 "height": "350"
             }
         }
-   }
+    }
 }

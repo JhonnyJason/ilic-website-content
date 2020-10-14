@@ -87,7 +87,7 @@
             "url": "/img/fenster-gallery-image5.jpg",
             "thumbnailURL": "/img/fenster-gallery-image5-thumbnail.jpg"
         }
-   },
+    },
     "images": {
         "bannerImage": {
             "name": "fenster-banner.jpg",
@@ -144,5 +144,5 @@
                 "height": "350"
             }
         }
-   }
+    }
 }
