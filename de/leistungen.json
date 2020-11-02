@@ -29,22 +29,7 @@
         "impressumOwnerLine": "Geschäftsführer: Manuel Ilic & Stjepan Ilic",
         "impressumAddressParagraph": "Friedrich-List-Straße 26<br>72116 Mössingen, Deutschland",
         "impressumDetailsParagraph": "Handelsregister: Handwerkskammer Reutlingen 065884<br>Steuernummer: 86246/26922<br>UST-ID-Nr. 62913405792",
-        "copyrightBlockParagraph": "Copyright 2020",
-        "referencesBannerTitle": "Referenzen",
-        "referenceImages": [
-            {
-                "url": "/img/reference-image1.jpg"
-            },
-            {
-                "url": "/img/reference-image2.jpg"
-            },
-            {
-                "url": "/img/reference-image3.jpg"
-            },
-            {
-                "url": "/img/reference-image4.jpg"
-            }
-        ]
+        "copyrightBlockParagraph": "Copyright 2020"
     },
     "content": {
         "bannerImage": {
@@ -74,26 +59,6 @@
             "name": "leistungen-banner.jpg",
             "width": "1920",
             "height": "440"
-        },
-        "referenceImage1": {
-            "name": "reference-image1.jpg",
-            "width": "960",
-            "height": "400"
-        },
-        "referenceImage2": {
-            "name": "reference-image2.jpg",
-            "width": "960",
-            "height": "400"
-        },
-        "referenceImage3": {
-            "name": "reference-image3.jpg",
-            "width": "960",
-            "height": "400"
-        },
-        "referenceImage4": {
-            "name": "reference-image4.jpg",
-            "width": "960",
-            "height": "400"
         }
     }
 }

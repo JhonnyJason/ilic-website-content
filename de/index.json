@@ -29,22 +29,7 @@
         "impressumOwnerLine": "Geschäftsführer: Manuel Ilic & Stjepan Ilic",
         "impressumAddressParagraph": "Friedrich-List-Straße 26<br>72116 Mössingen, Deutschland",
         "impressumDetailsParagraph": "Handelsregister: Handwerkskammer Reutlingen 065884<br>Steuernummer: 86246/26922<br>UST-ID-Nr. 62913405792",
-        "copyrightBlockParagraph": "Copyright 2020",
-        "referencesBannerTitle": "Referenzen",
-        "referenceImages": [
-            {
-                "url": "/img/reference-image1.jpg"
-            },
-            {
-                "url": "/img/reference-image2.jpg"
-            },
-            {
-                "url": "/img/reference-image3.jpg"
-            },
-            {
-                "url": "/img/reference-image4.jpg"
-            }
-        ]
+        "copyrightBlockParagraph": "Copyright 2020"
     },
     "content": {
         "bannerImage": {
@@ -65,7 +50,40 @@
         "sonnenschutzTitle": "Sonnenschutz",
         "sonnenschutzParagraph": "<br>Das Wechselspiel von Licht und Schatten es ist einfach ein Traum, wenn die Sonne durch Ihre Jalousien scheint und sanft auf die Nasenspitze trifft. Mit individuellen Sonnenschutzkonzepten können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Wohlfühlen und Verweilen schaffen. In Farbe und Variation haben Sie freie Hand zum kreativen Gestalten und Abrunden Ihrer Inneneinrichtung. Selbst für ausgefallene Fensterformen finden Sie bei uns einen passenden Sonnenschutz. Die Handhabung wählen Sie ganz nach Wunsch aus, ob Bedienen per Hand oder ferngesteuert per Motor - das bleibt ganz Ihnen überlassen.",
         "insektenschutzTitle": "Insektenschutz",
-        "insektenschutzParagraph": "Das Wechselspiel von Licht und Schatten ist einfach traumhaft, wenn die Sonne durch Ihre Jalousien scheint. Mit einer Jalousie von WAREMA können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Genießen schaffen. In Farbe und Variation haben Sie bei der Auswahl von Innen- und Außenjalousien freie Hand zum kreativen Gestalten. Selbst für dreieckige Fenster finden Sie den passenden Sonnenschutz. Und den Bedienkomfort wählen Sie ganz nach Wunsch – ob Öffnen per Hand oder ferngesteuert per Motor."
+        "insektenschutzParagraph": "Das Wechselspiel von Licht und Schatten ist einfach traumhaft, wenn die Sonne durch Ihre Jalousien scheint. Mit einer Jalousie von WAREMA können Sie die Wirkung Ihrer Räume positiv beeinflussen – und ein Ambiente zum Genießen schaffen. In Farbe und Variation haben Sie bei der Auswahl von Innen- und Außenjalousien freie Hand zum kreativen Gestalten. Selbst für dreieckige Fenster finden Sie den passenden Sonnenschutz. Und den Bedienkomfort wählen Sie ganz nach Wunsch – ob Öffnen per Hand oder ferngesteuert per Motor.",
+        "referencesBannerTitle": "Referenzen",
+        "galleryImage1": {
+            "url": "/img/gallery-image1.jpg",
+            "thumbnailURL": "/img/gallery-image1-thumbnail.jpg"
+        },
+        "galleryImage2": {
+            "url": "/img/gallery-image2.jpg",
+            "thumbnailURL": "/img/gallery-image2-thumbnail.jpg"
+        },
+        "galleryImage3": {
+            "url": "/img/gallery-image3.jpg",
+            "thumbnailURL": "/img/gallery-image3-thumbnail.jpg"
+        },
+        "galleryImage4": {
+            "url": "/img/gallery-image4.jpg",
+            "thumbnailURL": "/img/gallery-image4-thumbnail.jpg"
+        },
+        "galleryImage5": {
+            "url": "/img/gallery-image5.jpg",
+            "thumbnailURL": "/img/gallery-image5-thumbnail.jpg"
+        },
+        "galleryImage6": {
+            "url": "/img/gallery-image6.jpg",
+            "thumbnailURL": "/img/gallery-image6-thumbnail.jpg"
+        },
+        "galleryImage7": {
+            "url": "/img/gallery-image7.jpg",
+            "thumbnailURL": "/img/gallery-image7-thumbnail.jpg"
+        },
+        "galleryImage8": {
+            "url": "/img/gallery-image8.jpg",
+            "thumbnailURL": "/img/gallery-image8-thumbnail.jpg"
+        }
     },
     "images": {
         "bannerImage": {
@@ -73,25 +91,85 @@
             "width": "1920",
             "height": "440"
         },
-        "referenceImage1": {
-            "name": "reference-image1.jpg",
-            "width": "960",
-            "height": "400"
+        "galleryImage1": {
+            "name": "gallery-image1.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image1-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
         },
-        "referenceImage2": {
-            "name": "reference-image2.jpg",
-            "width": "960",
-            "height": "400"
+        "galleryImage2": {
+            "name": "gallery-image2.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image2-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
         },
-        "referenceImage3": {
-            "name": "reference-image3.jpg",
-            "width": "960",
-            "height": "400"
+        "galleryImage3": {
+            "name": "gallery-image4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image3-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
         },
-        "referenceImage4": {
-            "name": "reference-image4.jpg",
-            "width": "960",
-            "height": "400"
+        "galleryImage4": {
+            "name": "gallery-image4.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image4-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "galleryImage5": {
+            "name": "gallery-image5.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image5-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "galleryImage6": {
+            "name": "gallery-image6.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image6-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "galleryImage7": {
+            "name": "gallery-image7.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image7-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
+        },
+        "galleryImage8": {
+            "name": "gallery-image8.jpg",
+            "width": "1920",
+            "height": "1080",
+            "thumbnail": {
+                "name": "gallery-image8-thumbnail.jpg",
+                "width": "650",
+                "height": "350"
+            }
         }
     }
 }

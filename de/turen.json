@@ -29,22 +29,7 @@
         "impressumOwnerLine": "Geschäftsführer: Manuel Ilic & Stjepan Ilic",
         "impressumAddressParagraph": "Friedrich-List-Straße 26<br>72116 Mössingen, Deutschland",
         "impressumDetailsParagraph": "Handelsregister: Handwerkskammer Reutlingen 065884<br>Steuernummer: 86246/26922<br>UST-ID-Nr. 62913405792",
-        "copyrightBlockParagraph": "Copyright 2020",
-        "referencesBannerTitle": "Referenzen",
-        "referenceImages": [
-            {
-                "url": "/img/reference-image1.jpg"
-            },
-            {
-                "url": "/img/reference-image2.jpg"
-            },
-            {
-                "url": "/img/reference-image3.jpg"
-            },
-            {
-                "url": "/img/reference-image4.jpg"
-            }
-        ]
+        "copyrightBlockParagraph": "Copyright 2020"
     },
     "content": {
         "bannerImage": {
@@ -69,83 +54,13 @@
             "- Spezielle Türfüllungen",
             "- Sonderwünsche"
         ],
-        "guaranteeProclamation": "5-Jahre-Garantie für alle Produkte",
-        "galleryImage1": {
-            "url": "/img/turen-gallery-image1.jpg",
-            "thumbnailURL": "/img/turen-gallery-image1-thumbnail.jpg"
-        },
-        "galleryImage2": {
-            "url": "/img/turen-gallery-image2.jpg",
-            "thumbnailURL": "/img/turen-gallery-image2-thumbnail.jpg"
-        },
-        "galleryImage3": {
-            "url": "/img/turen-gallery-image3.jpg",
-            "thumbnailURL": "/img/turen-gallery-image3-thumbnail.jpg"
-        },
-        "galleryImage4": {
-            "url": "/img/turen-gallery-image4.jpg",
-            "thumbnailURL": "/img/turen-gallery-image4-thumbnail.jpg"
-        },
-        "galleryImage5": {
-            "url": "/img/turen-gallery-image5.jpg",
-            "thumbnailURL": "/img/turen-gallery-image5-thumbnail.jpg"
-        }
+        "guaranteeProclamation": "5-Jahre-Garantie für alle Produkte"
     },
     "images": {
         "bannerImage": {
             "name": "turen-banner.jpg",
             "width": "1920",
             "height": "440"
-        },
-        "galleryImage1": {
-            "name": "turen-gallery-image1.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "turen-gallery-image1-thumbnail.jpg",
-                "width": "650",
-                "height": "350"
-            }
-        },
-        "galleryImage2": {
-            "name": "turen-gallery-image2.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "turen-gallery-image2-thumbnail.jpg",
-                "width": "650",
-                "height": "350"
-            }
-        },
-        "galleryImage3": {
-            "name": "turen-gallery-image4.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "turen-gallery-image3-thumbnail.jpg",
-                "width": "650",
-                "height": "350"
-            }
-        },
-        "galleryImage4": {
-            "name": "turen-gallery-image4.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "turen-gallery-image4-thumbnail.jpg",
-                "width": "650",
-                "height": "350"
-            }
-        },
-        "galleryImage5": {
-            "name": "turen-gallery-image5.jpg",
-            "width": "1920",
-            "height": "1080",
-            "thumbnail": {
-                "name": "turen-gallery-image5-thumbnail.jpg",
-                "width": "650",
-                "height": "350"
-            }
         }
     }
 }
