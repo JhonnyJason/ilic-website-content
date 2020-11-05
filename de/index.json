@@ -35,6 +35,7 @@
         "bannerImage": {
             "url": "/img/home-banner.jpg"
         },
+        "pictureCreditText": "Header Photo Credit: freepik.com/photos/business<br>created by katemangostar",
         "pageTitle": "Herzlich Willkommen bei<br> <b>Ilic Fenster, Türen & Rolläden</b>",
         "sellingPropositions": [
             "Lieferung & Montage deutschlandweit",
@@ -112,7 +113,7 @@
             }
         },
         "galleryImage3": {
-            "name": "gallery-image4.jpg",
+            "name": "gallery-image3.jpg",
             "width": "1920",
             "height": "1080",
             "thumbnail": {
